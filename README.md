@@ -9,7 +9,10 @@ This project is based on these two papers [[1]](https://repositum.tuwien.at/bits
 [[1]](https://repositum.tuwien.at/bitstream/20.500.12708/16962/1/Hauri%20Marcel%20Rene%20-%202021%20-%20Detecting%20Signatures%20in%20scanned%20document%20images.pdf) studies the usage of different object detection algorithms for signature detection and the results indicate that YOLOv5 outperforms all other models for the signature detection task. [[2]](https://arxiv.org/abs/2004.12104) provides a CycleGAN based approach to clean noise artifacts from signatures that are present in real-world documents and methods to perform signature validation using Representation learning.  
 
 This project has been trained and tested on signature datasets ([Tobacco 800](http://tc11.cvc.uab.es/datasets/Tobacco800_1) and [Kaggle Signature Dataset](https://www.kaggle.com/robinreni/signature-verification-dataset)).
+  
 
+**Model weights and data is not added, will update soon. :)**  
+  
 ## Workflow
 
 The project works in three phases.
