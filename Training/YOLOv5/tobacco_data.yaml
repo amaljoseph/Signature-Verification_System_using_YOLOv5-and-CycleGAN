@@ -1,0 +1,5 @@
+train: tobacco_yolo_format/images/train
+val: tobacco_yolo_format/images/valid
+
+nc: 2
+names: ['DLLogo', 'DLSignature']
