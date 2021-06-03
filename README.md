@@ -11,7 +11,8 @@ This project is based on these two papers [[1]](https://repositum.tuwien.at/bits
 This project has been trained and tested on signature datasets ([Tobacco 800](http://tc11.cvc.uab.es/datasets/Tobacco800_1) and [Kaggle Signature Dataset](https://www.kaggle.com/robinreni/signature-verification-dataset)).
   
 
-**Model weights and data is not added, will update soon. :)**  
+**Model weights and data is not added, will be update soon. You can train the models using the instructions provided below.  
+The application would be made available for testing over [here]() soon.**  
   
 ## Workflow
 
