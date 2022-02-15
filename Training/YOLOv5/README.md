@@ -11,7 +11,7 @@ Refer [this video](https://www.youtube.com/watch?v=MhftoBaoZpg) for a better, in
 
 ### Training On Custom Signature Dataset
 **YOLOv5** is available over [this repo](https://github.com/ultralytics/yolov5).  
-The data in CycleGAN format is available [here](tobacco_yolo_format.zip) as a zip file.  
+The data in YOLO format is available [here](https://drive.google.com/drive/folders/1397Q9nqMqEsSesB9UvlIL1u1IGzrUOIK?usp=sharing) as a zip file.  
 We use it to train the model to work with the Signature detection use case.  
 YOLOv5 requires the dataset to be organized in a particular structure.  
 `dataset`  
