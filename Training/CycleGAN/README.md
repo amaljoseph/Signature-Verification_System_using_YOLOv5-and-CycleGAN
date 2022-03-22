@@ -28,7 +28,7 @@ The code required to do *to generate noisy images*, *to structure the dataset in
   
 ## Training the model.
 **Use [this notebook](SignatureCleaningCycleGAN.ipynb) to train and test the CycleGAN model.**  
-The data in CycleGAN format is available [here](gan_signdata_kaggle.zip) as a zip file.  
+The data in CycleGAN format is available [here](https://drive.google.com/drive/u/0/folders/1397Q9nqMqEsSesB9UvlIL1u1IGzrUOIK) as a zip file.  
 
 Clone the official [CycleGAN repo] and install the requirements using the `requirements.txt` file.  
 Our signature dataset must to be added to the `datasets` folder of the cloned repository.  
